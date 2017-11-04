@@ -11,7 +11,7 @@ $ pip install logxstract
 
 ## Example xml in log which could be extracted
 
-[[https://user-images.githubusercontent.com/8684952/32408613-6471d374-c19b-11e7-9319-7d6416864010.png|alt=Example log]]
+![Example](https://user-images.githubusercontent.com/8684952/32408613-6471d374-c19b-11e7-9319-7d6416864010.png)
 
 
 ## Usage as library
