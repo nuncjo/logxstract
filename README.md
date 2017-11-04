@@ -9,11 +9,17 @@ Library for extracting xml from logs. Finds xml matching criteria and saves resu
 $ pip install logxstract
 ```
 
+## Example xml in log which could be extracted
+
+[[https://user-images.githubusercontent.com/8684952/32408613-6471d374-c19b-11e7-9319-7d6416864010.png|alt=Example log]]
+
+
 ## Usage as library
 
 ```python
 
         from logxstract import extract_xml_from_file
+
         extract_xml_from_file(
             path='/item',
             body='/item',
